@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8efbefb9-7505-4908-a580-8e6b8cd901ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Neurociencias-2025-2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Neurociencias-2025-2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/S04_parciales/P01_1er_parcial/.ipynb_checkpoints/Examen_1er_parcial-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/S04_parciales/P01_1er_parcial/Examen_1er_parcial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/S04_parciales/P02_2do_parcial/.ipynb_checkpoints/Examen_2do_Parcial_yo-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/S04_parciales/P02_2do_parcial/.ipynb_checkpoints/Examen_2do_Parcial_yo-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S04_parciales/P02_2do_parcial/Examen_2do_Parcial_yo.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/S04_parciales/P02_2do_parcial/Examen_2do_Parcial_yo.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S04_parciales/P02_2do_parcial/Examen_2do_Parcial_yo.py" beforeDir="false" afterPath="$PROJECT_DIR$/S04_parciales/P02_2do_parcial/Examen_2do_Parcial_yo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Python.Examen_1erP_Solucion_Ej1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Examen_2do_Parcial_yo.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;development&quot;
   }

@@ -20,23 +20,15 @@ coordinates = mat_data['Coord']
 # Normalizando datos
 X_std = StandardScaler().fit_transform(coactivation_matrix)
 
-x, y, z = coordinates[:, 0], coordinates[:, 1], coordinates[:, 2]
-fig, axes = plt.subplots(1, 3, figsize=(20, 5))
 
-# kmeans
-kmeans = KMeans(n_clusters=5).fit(X_std)
-axes[0] = plt.axes(projection ="3d")
-axes[0].scatter3D(x, y, z, c=kmeans.labels_)
-
-# gaussian mixture
-gm = GaussianMixture(n_components=5, random_state=0).fit(X_std)
-axes[1] = plt.axes(projection ="3d")
-axes[1].scatter3D(x, y, z, c=gm.predict(X_std))
-
-# clustering jerárquico
 Z = linkage(X_std, 'ward')
-clusters = fcluster(Z, t=126, criterion='distance')
-axes[2] = plt.axes(projection ="3d")
-axes[2].scatter3D(x, y, z, c=clusters)
 
+clusters = fcluster(Z, t=126, criterion='distance')
+
+fig = plt.figure(figsize = (10, 7))
+ax = plt.axes(projection ="3d")
+
+x, y, z = coordinates[:, 0], coordinates[:, 1], coordinates[:, 2]
+# Creating plot
+ax.scatter3D(x, y, z, c=clusters, s=100)
 plt.show()
