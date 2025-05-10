@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3c770a76-33e7-42d0-afe5-e79d97fc6c3a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/S02_clases/T01_ACP/Clase_190225_200225.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/S02_clases/T01_ACP/clase_02_19.ipynb" afterDir="false" />
+    <list default="true" id="3c770a76-33e7-42d0-afe5-e79d97fc6c3a" name="Changes" comment="Examen Mariana">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S04_parciales/P01_1er_parcial/Examen 1_mariana.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +25,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -36,7 +41,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/Fernando-JAL/Neurociencias-2025-2.git&quot;,
-    &quot;accountId&quot;: &quot;cb03fc21-ffec-44a3-8130-0938635f52b8&quot;
+    &quot;accountId&quot;: &quot;40e6a03c-004e-43c0-b36f-4b8641f1757b&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -47,30 +52,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Branch__1erParcial__Zaira&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/ZvalEnes/Desktop/Neurociencias-2025-2&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "#2 on 1er-Parcial__Mariana",
+    "last_opened_file_path": "/Users/ZvalEnes/Desktop/Neurociencias-2025-2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/S04_parciales/P01_1er_parcial" />
       <recent name="$PROJECT_DIR$/S02_clases/T01_ACP" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-python-sdk-f5635417b835-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18968.29" />
       </set>
     </attachedChunks>
   </component>
@@ -86,9 +91,30 @@
       <workItem from="1740093573816" duration="5376000" />
       <workItem from="1740439647018" duration="2075000" />
     </task>
+    <task id="LOCAL-00001" summary="Examen Mariana">
+      <option name="closed" value="true" />
+      <created>1741180578666</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741180578666</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Examen Mariana">
+      <option name="closed" value="true" />
+      <created>1741180603052</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741180603052</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Examen Mariana" />
+    <option name="LAST_COMMIT_MESSAGE" value="Examen Mariana" />
   </component>
 </project>
