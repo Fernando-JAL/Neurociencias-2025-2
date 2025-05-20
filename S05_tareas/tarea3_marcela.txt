@@ -1,0 +1,40 @@
+Tensorflow
+
+Librería especializada en Machine Learning (ML) y Deep Learning (DL), desarrollada por Google. Enfocada en crear, entrenar y desplegar modelos de ML/DL (redes neuronales, etc.).
+
+Ofrece herramientas específicas para:
+- Construir redes neuronales.
+- Computación numérica eficiente (usando tensores).
+- Distribuir entrenamiento en GPUs/TPUs.
+
+Usa una API con funciones específicas para ML (ej.: tf.keras.layers.Dense()).
+Opera con tensores (arrays multidimensionales optimizados).
+
+Optimizado para cálculos numéricos intensivos.
+Ejecuta operaciones en GPU/TPU de forma nativa.
+
+Comunidad enfocada en ML/DL (investigadores, ingenieros de datos).
+Usado en proyectos como:
+- Reconocimiento de imágenes.
+- Procesamiento de lenguaje natural (NLP).
+
+
+Python
+
+Lenguaje de programación de propósito general. Usado para desarrollo web, análisis de datos, automatización, scripting, etc.
+
+Proporciona sintaxis y estructuras básicas para programar, pero requiere librerías externas (como TensorFlow) para ML/DL.
+
+Sintaxis genérica (listas, bucles, funciones).
+Para ML/DL necesita librerías como:
+- NumPy (arrays).
+- scikit-learn (modelos clásicos).
+- TensorFlow/PyTorch (redes neuronales).
+
+Más lento en operaciones matemáticas complejas (sin librerías como NumPy/TensorFlow).
+
+Comunidad amplia y diversa (desarrolladores web, científicos de datos, etc.).
+Usado en áreas como:
+- Desarrollo backend (Django/Flask).
+- Automatización.
+- Análisis de datos (Pandas).
