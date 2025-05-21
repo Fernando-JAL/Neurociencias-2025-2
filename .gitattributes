@@ -1,2 +1,0 @@
-dl_env/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
-dl_env/Lib/site-packages/clang/native/libclang.dll filter=lfs diff=lfs merge=lfs -text
